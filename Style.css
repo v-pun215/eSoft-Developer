@@ -6,7 +6,6 @@ html {
   color:white;
 }
 h1 {
-  color: black;
   font-size: 40px;
 }
 h1.w {
@@ -108,7 +107,7 @@ nav {
     line-height: 44px;
     text-decoration: none;
     transition: all 0.3s;
-    color: black;
+    color: white;
 }
 
 .nav-content a:hover,
