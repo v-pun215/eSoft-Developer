@@ -90,7 +90,8 @@ nav {
     position: -ms-sticky;
     margin: 0;
     overflow: hidden;
-    background: #333333;
+    color:black;
+    background: white;
 }   
 
 .nav-content {
